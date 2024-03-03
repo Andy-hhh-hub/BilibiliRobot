@@ -1,0 +1,12 @@
+bilibili-api-python
+pydantic==1.10.12
+langchain==0.0.305
+openai
+tiktoken==0.3.0
+boto3==1.28.57
+openpyxl==3.1.2
+pandas
+opensearch-py==2.2.0
+redis==5.0.1
+jieba==0.42.1
+configparser==6.0.0
